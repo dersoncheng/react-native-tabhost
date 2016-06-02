@@ -1,6 +1,6 @@
 {
-  "name": "react-native-tabbar",
-  "version": "0.3.6",
+  "name": "react-native-tabhost",
+  "version": "1.0.0",
   "description": "Tab bar with more freedom",
   "main": "libs/index.js",
   "scripts": {
@@ -8,16 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/alinz/react-native-tabbar.git"
+    "url": "git+ssh://git@github.com/dersoncheng/react-native-tabhost.git"
   },
   "keywords": [
     "react-native",
+    "tabhost",
     "tabbar"
   ],
-  "author": "Ali Najafizadeh",
+  "author": "dersoncheng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alinz/react-native-tabbar/issues"
+    "url": "https://github.com/dersoncheng/react-native-tabhost/issues"
   },
-  "homepage": "https://github.com/alinz/react-native-tabbar#readme"
+  "homepage": "https://github.com/dersoncheng/react-native-tabhost#readme"
 }
