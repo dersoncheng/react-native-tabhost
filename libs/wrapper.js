@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react-native';
 
 const DEFAULT_REF = 'DEFAULT_REF';
 

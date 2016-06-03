@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import { Animated } from 'react-native';
+import React, { Animated, Component } from 'react-native';
 
 export default class Rawbar extends Component {
   constructor(props, context) {

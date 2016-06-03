@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import { Animated } from 'react-native';
+import React, { Animated, Component } from 'react-native';
 import Rawbar from './raw';
 
 const sizeLimit = (minValue, maxValue) => {

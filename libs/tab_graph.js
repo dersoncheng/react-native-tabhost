@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react-native';
 import Tabbar from './tabbar';
 import Tab from './tab';
 import { RawIcon } from './icon';

@@ -1,5 +1,4 @@
-import React, { Component } from 'react'; 
-import { StyleSheet } from 'react-native';
+import React, { StyleSheet, Component } from 'react-native';
 import Dynamicbar from './dynamic';
 import { window } from './../util';
 

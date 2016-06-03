@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import { View } from 'react-native';
+import React, { View, Component } from 'react-native';
 import Wrapper from './../wrapper'
 
 const extendRawIcon = (ChildComponent) => {
